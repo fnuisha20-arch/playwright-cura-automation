@@ -1,0 +1,27 @@
+{
+  "name": "curehealth_automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.6.0",
+    "typescript": "^6.0.2"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "fsevents": "^2.3.2",
+    "playwright": "^1.59.1",
+    "playwright-core": "^1.59.1",
+    "ts-node": "^10.9.2",
+    "undici-types": "^7.18.2"
+  }
+}

@@ -1,0 +1,5 @@
+export const env = {
+  baseURL: "https://katalon-demo-cura.herokuapp.com/",
+  username: "John Doe",
+  password: "ThisIsNotAPassword"
+};
